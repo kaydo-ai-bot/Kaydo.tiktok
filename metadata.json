@@ -1,0 +1,6 @@
+{
+  "name": "KAYDO TIKTOK DOWNLOADER",
+  "description": "Téléchargez vos vidéos, photos, carrousels et musiques TikTok sans filigrane en haute qualité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
